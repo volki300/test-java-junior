@@ -1,0 +1,9 @@
+Ejercicio de Evaluacion Junior Develobper
+Ejercicio N° 1
+Respuesta
+- Si es un programa java valido
+- Si compila 
+- Ejecuta hasta terminar el bloque for por que la expresión if 
+no evalua con la operación == en objetos, se deberia usar 
+el metodo equals para comparar dos objetos
+ 
